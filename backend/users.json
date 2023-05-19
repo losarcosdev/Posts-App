@@ -1,0 +1,57 @@
+[
+  {
+    "email": "lucas.losarcos@gmail.com",
+    "firstName": "Lucas",
+    "lastName": "Los Arcos",
+    "password": "Lucas123!",
+    "username": "lucasDEV"
+  },
+  {
+    "email": "john.doe@gmail.com",
+    "firstName": "John",
+    "lastName": "Doe",
+    "password": "Password1!",
+    "username": "johndoe",
+    "avatar": "https://api.dicebear.com/5.x/adventurer/svg?seed=John"
+  },
+  {
+    "email": "jane.doe@gmail.com",
+    "firstName": "Jane",
+    "lastName": "Doe",
+    "password": "Password1!",
+    "username": "janedoe",
+    "avatar": "https://api.dicebear.com/5.x/adventurer/svg?seed=Jane"
+  },
+  {
+    "email": "sam.smith@gmail.com",
+    "firstName": "Sam",
+    "lastName": "Smith",
+    "password": "Password1!",
+    "username": "samsmith",
+    "avatar": "https://api.dicebear.com/5.x/adventurer/svg?seed=Sam"
+  },
+  {
+    "email": "olivia.hall@gmail.com",
+    "firstName": "Olivia",
+    "lastName": "Hall",
+    "password": "Password1!",
+    "username": "oliviahall",
+    "avatar": "https://api.dicebear.com/5.x/adventurer/svg?seed=Olivia"
+  },
+  {
+    "email": "william.brown@gmail.com",
+    "firstName": "William",
+    "lastName": "Brown",
+    "password": "Password1!",
+    "username": "williambrown",
+    "avatar": "https://api.dicebear.com/5.x/adventurer/svg?seed=William"
+  },
+  {
+    "email": "lily.davis@gmail.com",
+    "firstName": "Lily",
+    "lastName": "Davis",
+    "password": "Password1!",
+    "username": "lilydavis",
+    "avatar": "https://api.dicebear.com/5.x/adventurer/svg?seed=Lily"
+  }
+]

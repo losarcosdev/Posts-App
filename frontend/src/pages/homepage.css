@@ -1,0 +1,53 @@
+.bg-gradient-01 {
+  background-image: linear-gradient(
+    to left,
+    #d16ba5,
+    #c777b9,
+    #ba83ca,
+    #aa8fd8,
+    #9a9ae1,
+    #919ce5,
+    #869ee9,
+    #7aa0ed,
+    #7299f1,
+    #6a93f5,
+    #648bf8,
+    #5f84fb
+  );
+}
+
+.bg-gradient-01:hover {
+  background-image: linear-gradient(
+    to right,
+    #d16ba5,
+    #c777b9,
+    #ba83ca,
+    #aa8fd8,
+    #9a9ae1,
+    #919ce5,
+    #869ee9,
+    #7aa0ed,
+    #7299f1,
+    #6a93f5,
+    #648bf8,
+    #5f84fb
+  );
+}
+
+.bg-gradient-02 {
+  background-image: linear-gradient(
+    to left,
+    #d16ba5,
+    #c777b9,
+    #ba83ca,
+    #aa8fd8,
+    #9a9ae1,
+    #919ce5,
+    #869ee9,
+    #7aa0ed,
+    #7299f1,
+    #6a93f5,
+    #648bf8,
+    #5f84fb
+  );
+}
